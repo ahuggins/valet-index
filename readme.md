@@ -28,6 +28,8 @@ Change Directory to wherever you want the repo installed:
 
 `git clone git@github.com:ahuggins/valet-index.git`
 
+`cd valet-index`
+
 Install npm dependencies
 
 `npm install`
