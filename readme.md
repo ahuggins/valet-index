@@ -1,5 +1,7 @@
 # Laravel Valet Index - Electron App
 
+[Github](http://github.com/ahuggins/valet-index)
+
 Listened to Full Stack Radio with Jessica Lord discuss Electron and how you can build desktop apps with JS, HTML and CSS. Many ideas sparked in my mind, but I thought a listing of sites ran by Valet would be a quick little app to build.
 
 I didn't use any JS framework, other than the parts Electron provides...but I feel like Vue components (or any components) would be a good place to begin improvements.
@@ -19,3 +21,16 @@ I didn't use any JS framework, other than the parts Electron provides...but I fe
     2. Editor/IDE of choice
 5. Optional click to open in Text Editor/IDE of choice
     1. Currently click opens in browser, but would be nice to have a link that opened the project in Sublime or PHPStorm.
+
+## Getting started
+
+Change Directory to wherever you want the repo installed:
+
+`git clone git@github.com:ahuggins/valet-index.git`
+
+Install npm dependencies
+
+`npm install`
+
+
+
