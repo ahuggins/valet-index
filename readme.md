@@ -32,5 +32,10 @@ Install npm dependencies
 
 `npm install`
 
+Once npm completes
+
+`npm start`
+
+That should open a window with your sites listed. Any issues, create an issue on Github. Note, I have only tested this on OSX, I think Valet works on Linux, but not sure if this app (although Electron is supposed to) works yet.
 
 
