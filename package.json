@@ -1,0 +1,11 @@
+{
+  "name": "vv",
+  "version": "0.0.1",
+  "description": "An index of Valet sites",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andy Huggins",
+  "license": "MIT"
+}
